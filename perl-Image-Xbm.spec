@@ -1,7 +1,7 @@
 %define module	Image-Xbm
 %define name	perl-%{module}
 %define version 1.08
-%define release %mkrel 9
+%define release %mkrel 11
 
 Name:		%{name}
 Version:	%{version}
